@@ -18,4 +18,4 @@ strategy/ 전략 파일들을 저장한 폴더
 
 그 밖에 참고할 만한 내용들은 [`참고할 만한 내용 #1`](https://github.com/seongs1024/sys_trading_team/issues/1) 이슈에 남겨주시면
 
-해당 내용을 검토한 뒤에 정제된 내용을 위키에 올리겠습니다.
+해당 내용을 검토한 뒤에 정제된 내용을 [`위키`](https://github.com/seongs1024/sys_trading_team/wiki)에 올리겠습니다.
